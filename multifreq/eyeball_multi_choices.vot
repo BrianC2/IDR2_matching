@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Produced with astropy.io.votable version 1.0
+<!-- Produced with astropy.io.votable version 1.1.1
      http://www.astropy.org/ -->
 <VOTABLE version="1.2" xmlns="http://www.ivoa.net/xml/VOTable/v1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ivoa.net/xml/VOTable/v1.2">
  <RESOURCE type="results">
@@ -463,7 +463,7 @@
       <TD>000440+124919,000446+124923</TD>
       <TD/>
       <TD>eyeball</TD>
-      <TD>9.7299762194220563</TD>
+      <TD>9.7299762194220705</TD>
      </TR>
      <TR>
       <TD>GLM J001328-1929</TD>
@@ -541,7 +541,7 @@
       <TD>001326-192950,001332-193023</TD>
       <TD/>
       <TD>eyeball</TD>
-      <TD>12.881839301461273</TD>
+      <TD>12.881839301461351</TD>
      </TR>
      <TR>
       <TD>GLM J002402-0810</TD>
@@ -597,8 +597,8 @@
       <TD>-8.1755999999999993</TD>
       <TD>0.0001</TD>
       <TD>0.00020000000000000001</TD>
-      <TD>NaN</TD>
-      <TD>NaN</TD>
+      <TD>-0.40200000000000002</TD>
+      <TD>0.048000000000000001</TD>
       <TD>0.96999999999999997</TD>
       <TD>0.16</TD>
       <TD/>
@@ -619,7 +619,7 @@
       <TD>002400-081109,002402-080919</TD>
       <TD/>
       <TD>eyeball</TD>
-      <TD>NaN</TD>
+      <TD>35.083447694502929</TD>
      </TR>
      <TR>
       <TD>GLM J002443-4202</TD>
@@ -697,7 +697,7 @@
       <TD/>
       <TD>J002442-420203</TD>
       <TD>eyeball</TD>
-      <TD>156.10965202485295</TD>
+      <TD>156.10965202485292</TD>
      </TR>
      <TR>
       <TD>GLM J000626-8305</TD>
