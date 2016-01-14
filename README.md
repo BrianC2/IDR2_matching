@@ -43,10 +43,13 @@ cd /media/brian/Data/Documents/University/3_Third_Year/Summer_Semester/SCIE30001
 ##Now work through all of the manual rejects. If you need
 ##to edit the sources to be included, add/remove them between
 ##START_GROUP and START_COMP
+##Source information goes:
+##catalogue name ra error_ra dec error_dec frequency flux error_flux -things-you-dont-care-about
 ##If you want to combine all that is left, in the choice file type
 all
 ##If you want a specific combination of sources, list their names
-##separated by commas
+##separated by commas e.g. 
+J002619-150423 J002615-150422,002623-150405
 
 
 
@@ -66,5 +69,7 @@ git config --global push.default simple
 ##Change the fork of your local repository to the designated fork
 git remote set-url origin https://github.com/BrianC2/IDR2_matching.git
 
+##Retrieve 
+git clone https://github.com/BrianC2/IDR2_matching.git
 
 git remote set-url origin https://github.com/JLBLine/IDR2_matching.git
